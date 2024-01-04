@@ -14,7 +14,7 @@ YOLOv8 model weights (Refer to Ultralytics YOLOv8 repository for pretrained weig
 
 ```bash
 #Copy code
-git clone https://github.com/yourusername/YOLOv8-Inference-OpenCV.git
+git clone https://github.com/Arham222/YOLOv8-Inference-OpenCV.git
 #cd YOLOv8-Inference-OpenCV
 ```
 ## Install dependencies:
